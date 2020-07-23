@@ -22,7 +22,7 @@ body {
 	height: 192px;
 }
 .ds-margin {
-	margin: 2px;
+	margin: 0 2px;
 	text-align: left;
 }
 .section-title {
@@ -38,7 +38,6 @@ body {
 	background-color: #cecece;
 	border-radius: 0 10px 10px 10px;
 	padding: 5px 10px 10px 10px;
-	margin-bottom: 6px;
 }
 .twilightLogo {
 	float: right;
