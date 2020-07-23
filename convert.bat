@@ -1,0 +1,1 @@
+START C:/"Program Files"/"Mozilla Firefox"/firefox.exe --screenshot out.png --window-size 256 http://localhost/themes/dsi.html
